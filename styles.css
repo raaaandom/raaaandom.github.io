@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+}
+
+#bannerSection {
+	position: relative;
+	display: table;
+	width: 100%;
+	background: rgba(99,214,250,1);
+	/* ms ( IE 10.0+ ) */
+	background: -ms-radial-gradient(ellipse closest-side at 50% 50%, rgb(56, 56, 56) 0.14%, rgb(30, 30, 30) 99.61% );
+	/* WebKit (Chrome 10.0+, safari 5.1+ )*/
+	background: -webkit-radial-gradient(ellipse closest-side at 50% 50%, rgb(56, 56, 56) 0.14%, rgb(30, 30, 30) 99.61% );
+	/* Moz ( Moz 3.6+ )*/
+	background: -moz-radial-gradient(ellipse closest-side at 50% 50%, rgb(56, 56, 56) 0.14%, rgb(30, 30, 30) 99.61% );
+	/* Opera ( opera 11.6+ )*/
+	background: -o-radial-gradient(ellipse closest-side at 50% 50%, rgb(56, 56, 56) 0.14%, rgb(30, 30, 30) 99.61% );
+	/* W3C Markup */
+	background: radial-gradient(ellipse closest-side at 50% 50%, rgb(56, 56, 56) 0.14%, rgb(30, 30, 30) 99.61% );
+	height: 100vh;
+}
+
+.bannerContent {
+	display: table-cell;
+	vertical-align: middle;
+	color: #FFF;
+	text-align: center;
+	font-size: 18px;
+	font-weight: normal;
+	padding: 0 3%;
+}
