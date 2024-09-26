@@ -22,3 +22,6 @@ In my free time I enjoy studying japanese (JLPT N5) and wasting time on videogam
 Instagram: [https://www.instagram.com/rxndxmy/](https://www.instagram.com/rxndxmy/)\
 Github: [https://github.com/raaaandom](https://github.com/raaaandom)\
 Discord: .raandom
+
+> Feel free to DM me on any social for any kind of reason!\
+> I won't bite you :D (or at least not yet o.o)

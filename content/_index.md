@@ -1,5 +1,5 @@
 +++
-title= "Welcome"
+title= "Nikki"
 template = "homepage.html"
 +++
 
@@ -11,3 +11,6 @@ With this, I aim to fix this bad habit of mine while also trying to reach out to
 
 Get to know me better in the [/about](./about) section (uwu?)\
 or jump straight into action in either the [/posts](./posts) or [/projects](./projects) section.
+
+> Wondering about what Nikki means?\
+> It's the japanese word for diary.
