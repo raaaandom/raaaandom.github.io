@@ -19,3 +19,5 @@ taxonomies = [{ name = "tags" }]
     socials = [
         { name = "github", url = "https://github.com/raaaandom/", icon = "github" },
     ]
+    mathjax = true
+    mathjax_dollar_inline_enable = true
