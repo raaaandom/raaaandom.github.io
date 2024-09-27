@@ -5,5 +5,5 @@ weight = 1
 
 [extra]
 local_image = "/projects/nikki.jpg"
-link_to = "./"
+link_to = "https://raaaandom.github.io/"
 +++
