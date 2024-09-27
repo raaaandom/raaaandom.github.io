@@ -5,7 +5,5 @@ weight = 1
 
 [extra]
 local_image = "/projects/nikki.jpg"
-link_to = "https://github.com/not-matthias/apollo"
+link_to = "./"
 +++
-
-Example project page
