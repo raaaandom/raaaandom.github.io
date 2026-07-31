@@ -5,5 +5,5 @@ weight = 3
 
 [extra]
 local_image = "/projects/soldier.png"
-link_to = "https://sudoku-soldier.vercel.app/"
+link_to = "https://github.com/raaaandom/sudoku-solver.git"
 +++
