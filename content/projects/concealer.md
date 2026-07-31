@@ -5,5 +5,5 @@ weight = 2
 
 [extra]
 local_image = "/projects/concealer.png"
-link_to = "https://github.com/raaaandom/concealer.py.git"
+link_to = "https://github.com/raaaandom/sudoku-solver.git"
 +++
